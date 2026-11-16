@@ -14,3 +14,4 @@ I am an engineering student at **AUES** (Class of 2028, Group: **ИиаДк-25-1
 
 ### 🎯 Current Project:
 - **JarvisMentor:** Developing a production-grade Telegram AI assistant featuring multi-role persona switching, context memory management, network resilience, and automated document/code delivery.
+- **DentalBot:** Smart commercial AI assistant for a dental clinic in Almaty, featuring multi-role personas (Admin & Consultant), a built-in pricing engine in Kazakhstani Tenge (₸), interactive inline appointment booking, `.webp` menu catalogs, and Whisper voice input for elderly accessibility.
