@@ -1,16 +1,16 @@
-### Hello, World! 👋 I'm Telman Yeraly
+## Telman Yeraly
+**Artificial Intelligence Student & Backend Developer**
 
-I'm an aspiring Backend Developer and Artificial Intelligence student at **AUES**, graduating in **2028** (Group: **ИиаДк-25-1а**). I’m passionate about building smart applications, integrating neural networks, and writing clean Python architecture.
-
----
-
-### 💻 About Me & Skills:
-* **Development:** Solid understanding of algorithms, code structure, and Python backend logic.
-* **AI & Tools:** Experienced with Google Colab, LLM integrations, and modern developer tools.
-* **Environment:** Basic foundational experience with Linux and command-line workflows.
-* **Productivity:** Strong command of technical documentation tools (Excel, Word).
+I am an engineering student at **AUES** (Class of 2028, Group: **ИиаДк-25-1а**), specializing in backend architecture, Python development, and practical AI system integration. My focus lies in designing robust, modular software and embedding intelligent workflows into real-world applications.
 
 ---
 
-### 🎯 Current Focus:
-Building and scaling **JarvisMentor** — a multi-mode AI assistant in Telegram featuring character switching, custom memory, document processing, and vision capabilities.
+### 💻 Technical Competencies:
+- **Backend Development:** Python, modular architecture design, algorithmic logic, and state management.
+- **AI & LLM Engineering:** API integration (Groq, OpenAI Whisper), multi-modal workflows (vision and document parsing), and dynamic prompt engineering.
+- **Infrastructure & Tools:** Git/GitHub version control, Linux command-line environments, and technical documentation workflows.
+
+---
+
+### 🎯 Current Project:
+- **JarvisMentor:** Developing a production-grade Telegram AI assistant featuring multi-role persona switching, context memory management, network resilience, and automated document/code delivery.
